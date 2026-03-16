@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gh-migration-tools/gh-bbc2gh/blob/main/LICENSE)
 [![CI](https://github.com/gh-migration-tools/gh-bbc2gh/actions/workflows/CI.yml/badge.svg)](https://github.com/gh-migration-tools/gh-bbc2gh/actions/workflows/CI.yml)
 
-**gh-bbc2gh** is a GitHub CLI extension for GitHub migrations. This extension uses under the hood the [`gh-bbc-exporter`](https://github.com/katiem0/gh-bbc-exporter) by [@katiem0](https://github.com/katiem0/) to create an Bitbucket Cloud export archive.
+**gh-bbc2gh** is a GitHub CLI extension for Bitbucket Cloud to GitHub migrations. This extension uses under the hood the [`gh-bbc-exporter`](https://github.com/katiem0/gh-bbc-exporter) by [@katiem0](https://github.com/katiem0/) to create an Bitbucket Cloud export archive.
 
 By using the [Octoshift](https://github.com/gh-migration-tools/Octoshift) library this extension is build upon the same codebase and provides the same set of commands as the `gh-gei`, `gh-ado2gh` or `gh-bbs2gh` extensions.
 
