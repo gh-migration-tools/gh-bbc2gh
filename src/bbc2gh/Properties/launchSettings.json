@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "help": {
+      "commandName": "Project",
+      "commandLineArgs": "migrate-repo --help"
+    },
+    "migrate-repo": {
+      "commandName": "Project",
+      "commandLineArgs": "migrate-repo --bitbucket-workspace BBC_WORKSPACE --bitbucket-repo BBC_REPO --bitbucket-access-token BBC_TOKEN --github-org GH_ORG --github-repo GH_REPO --github-pat GH_PAT --verbose"
+    }
+  }
+}

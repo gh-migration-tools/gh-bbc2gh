@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+    <File Path="README.md" />
+    <File Path="RELEASENOTES.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/bbc2gh/bbc2gh.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/bbc2gh.Tests/bbc2gh.Tests.csproj" />
+  </Folder>
+</Solution>
